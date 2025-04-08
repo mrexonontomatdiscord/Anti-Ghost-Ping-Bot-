@@ -1,0 +1,11 @@
+{
+    "name": "anti-ghost-ping-main",
+    "version": "1.0.0",
+    "scripts": {
+        "start": "python bot.py"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "description": ""
+}
